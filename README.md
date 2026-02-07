@@ -1,16 +1,31 @@
 # Sales-and-Customer-Intelligence-Dashboard
 
-## Objective
-Analyze sales performance and customer segments using Power BI.
+## Project Overview
+This project analyzes sales performance and customer segments using Power BI to generate business insights and recommendations.
 
-## Tools Used
+## 🎯 Objectives
+- Understand regional sales trends
+- Identify profitable customer segments
+- Evaluate overall business performance
+
+## Tools and Technologies
 - Power BI
 - Excel Dataset
+
+## Dashboard Features
+- KPI summary cards
+- Sales trend analysis
+- Segment comparison
+- Profit breakdown
 
 ## Key Insights
 - Regional sales trends
 - Segment performance
 - Profit distribution
+- Consumer segment generates highest revenue
+- West region shows strongest profitability
+- Some product categories reduce margins
+
 
 ## Screenshots
 <img width="666" height="386" alt="image" src="https://github.com/user-attachments/assets/b8d9e93c-bfc4-45e3-b0f1-432d16176bc2" />
@@ -21,6 +36,10 @@ Analyze sales performance and customer segments using Power BI.
 
 
 
+## Future Improvements
+- Add forecasting
+- Integrate Python analysis
+- Automate data refresh
 
 ## Author
 Jay Shankar Yadav
